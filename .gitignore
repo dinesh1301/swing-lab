@@ -1,0 +1,13 @@
+# Local Claude Code / agent tooling
+.claude/
+AGENTS.md
+
+# Vercel
+.vercel
+
+# OS / editor
+.DS_Store
+*.log
+
+# Node (none committed, but just in case)
+node_modules/

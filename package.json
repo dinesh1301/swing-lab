@@ -1,0 +1,9 @@
+{
+  "name": "swing-lab",
+  "version": "1.0.0",
+  "description": "Hyperreal cricket bowling physics simulator — swing, reverse swing, drift, dip, seam",
+  "type": "module",
+  "scripts": {
+    "start": "python3 -m http.server 8077"
+  }
+}
