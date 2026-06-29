@@ -3,7 +3,10 @@
 A hyperrealistic, fully-configurable simulation of a cricket delivery: conventional
 swing, reverse swing, contrast swing, Magnus drift & dip, the drag crisis, wind,
 weather, ball wear, seam presentation, and a stick/slip spinning-ball bounce model —
-rendered in 3D with hawk-eye style ball tracking.
+rendered in 3D with hawk-eye style ball tracking and statically posed, hyper-real
+batsman, wicketkeeper, bowler and umpires.
+
+**▶ Live demo: https://swing-lab-ruby.vercel.app**
 
 ## Run it
 
@@ -110,3 +113,8 @@ set it to 0 for strict tunnel physics.
 *Coefficient values are parameterised from these sources as compiled from domain
 knowledge (web verification was unavailable at build time); the cross-checks in the
 calibration table are the ground truth the model was tuned against.*
+
+## License
+
+[MIT](LICENSE) — free to use, modify and distribute. Built with
+[Three.js](https://threejs.org) and [lil-gui](https://lil-gui.georgealways.com).
